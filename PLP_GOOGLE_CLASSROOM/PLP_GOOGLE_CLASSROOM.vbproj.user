@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Components\AnnouncementClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\AnnouncementOverviewComponent.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CalendarClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CreateAnnouncement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CreateDiscussionForum.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CreateTodo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\DeleteClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CreateClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\DiscussionForumClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ErrorHandlers.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\FileHolder.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\JoinClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ListTodoClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\NoAnnouncementAvailable.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\NoTodoAvailable.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\SeeAllButton.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\StudentMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\NoClassAvailable.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\NoCoursesAvailable.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\StudentCourse.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\StudentPassedTodo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\StudentTeacherClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\TeacherClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\TeacherGradedView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\TeacherMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\TodoClass.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\TodoOverviewComponent.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ViewAnnouncement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ViewClassCourse.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ViewListTodo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ViewStudentClassCourse.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ViewTodo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ViewTodoTeacher.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\AnnouncementDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\DiscussionForumDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\HelpDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\StudentAssignTodoDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\StudentCalendarDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\StudentGradesDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\StudentOverviewDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\StudentTeacherDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\StudentTodoDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\TeacherCalendarDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\TeacherOverviewDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\StudentAnnouncementDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\StudentCourseDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\StudentDiscussionForumDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\TeacherClassDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboards\TeacherTodoDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AdminDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StudentDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StudentLoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TeacherDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TeacherLoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Utilities\DocumentReader.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

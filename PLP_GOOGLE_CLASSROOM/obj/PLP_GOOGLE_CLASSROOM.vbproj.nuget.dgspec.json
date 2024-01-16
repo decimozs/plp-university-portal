@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\acer\\Documents\\get yo ass up\\get yo ass up on vb\\PLP_GOOGLE_CLASSROOM\\PLP_GOOGLE_CLASSROOM\\PLP_GOOGLE_CLASSROOM.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\acer\\Documents\\get yo ass up\\get yo ass up on vb\\PLP_GOOGLE_CLASSROOM\\PLP_GOOGLE_CLASSROOM\\PLP_GOOGLE_CLASSROOM.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acer\\Documents\\get yo ass up\\get yo ass up on vb\\PLP_GOOGLE_CLASSROOM\\PLP_GOOGLE_CLASSROOM\\PLP_GOOGLE_CLASSROOM.vbproj",
+        "projectName": "PLP_GOOGLE_CLASSROOM",
+        "projectPath": "C:\\Users\\acer\\Documents\\get yo ass up\\get yo ass up on vb\\PLP_GOOGLE_CLASSROOM\\PLP_GOOGLE_CLASSROOM\\PLP_GOOGLE_CLASSROOM.vbproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acer\\Documents\\get yo ass up\\get yo ass up on vb\\PLP_GOOGLE_CLASSROOM\\PLP_GOOGLE_CLASSROOM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "PdfiumViewer": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "PdfiumViewer.Native.x86.v8-xfa": {
+              "target": "Package",
+              "version": "[2018.4.8.256, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
